@@ -5,6 +5,7 @@ In [52]: print(1/1)
 In [53]: def sq(x):
     ...:     return x*x
     ...:
+  
 
 In [54]: sq(10)
 Out[54]: 100
